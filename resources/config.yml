@@ -4,7 +4,7 @@ Exp_Bottle_Quantity: 500
 #If you want to add experience on a player first join write true
 FirstJoin_Experience_Enabler: false
 #If you have enabled the FirstJoin_Experience function here write the number of experience on first join
-FirstJoin_Experience: 100
+FirstJoin_Experience: 10
 #If you want to show every seconds experience whit a popup write true
 Popup_Show_Experience: false
 #Here if you want write your own command for show the exp quantity
